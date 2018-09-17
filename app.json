@@ -8,7 +8,5 @@
     "developer" : "Tookan Inc",
     "abilities" : {
         "side-menu": true,
-        "top-bar": true,
-        "sms-gateway": true
     }
 }
