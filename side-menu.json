@@ -32,7 +32,7 @@
         "functionalize": {
             "internal_functionality": false,
             "url": "http://tookanapi.docs.apiary.io/",
-            "target": "_self"
+            "target": "_blank"
         }
     }
 ]
