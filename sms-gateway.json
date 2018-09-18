@@ -1,4 +1,4 @@
 {
-    "name" : "Pass through Twilio",
+    "name" : "twilio",
     "url" : "https://parminder-sms-gateway-test.herokuapp.com/sms"
 }
