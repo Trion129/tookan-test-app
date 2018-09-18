@@ -1,8 +1,8 @@
 const express = require("express");
 const app = express();
 
-const accountSid = '';
-const authToken = '';
+const accountSid = 'AC447f39f6f524a66f99dda4979bd64943';
+const authToken = 'd8f08c7f54488a7f45d930cca656e899';
 const client = require('twilio')(accountSid, authToken);
 
 app.post('/sms', (req, res) => {
