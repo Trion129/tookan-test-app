@@ -1,0 +1,25 @@
+[
+    {
+        "type": "button",
+        "name": "Manager",
+        "icon": "fa fa-thumbs-o-up",
+        "location": "app.settings.managers",
+        "functionalize": {
+            "internal_functionality": true,
+            "url": "/#/app/dashboard",
+            "target": "_self"
+        }
+    },
+    {
+        "type": "button",
+        "name": "Driver",
+        "location": "app.settings.workflow",
+        "icon": "fa fa-power-off",
+        "functionalize": {
+            "internal_functionality": true,
+            "url": "",
+            "target": "_self"
+        }
+    }
+
+]
